@@ -9,7 +9,7 @@ public class UserMain {
 		System.out.println(id);
 		test.m1(5, 9);
 		int i = test.m2();
-		System.out.println(i);
+		//System.out.println(i);
 	}
 
 }
