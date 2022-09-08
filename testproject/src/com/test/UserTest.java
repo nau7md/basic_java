@@ -20,4 +20,10 @@ public class UserTest implements User {
 
 	}
 
+	@Override
+	public int m2() {
+	
+		return 444;
+	}
+
 }

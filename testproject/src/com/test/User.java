@@ -6,5 +6,6 @@ public interface User {
 	public Integer userId(int id);
 
 	public void m1(int a, int b);
+	public int m2();
 
 }

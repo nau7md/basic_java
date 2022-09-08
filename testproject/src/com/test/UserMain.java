@@ -8,6 +8,8 @@ public class UserMain {
 		Integer id = test.userId(193);
 		System.out.println(id);
 		test.m1(5, 9);
+		int i = test.m2();
+		System.out.println(i);
 	}
 
 }
