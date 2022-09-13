@@ -4,13 +4,11 @@ public class UserTest implements User {
 
 	@Override
 	public String greeting(String greet) {
-
 		return greet;
 	}
 
 	@Override
 	public Integer userId(int id) {
-
 		return id;
 	}
 
@@ -22,13 +20,11 @@ public class UserTest implements User {
 
 	@Override
 	public int m2() {
-
 		return 44;
 	}
 
 	@Override
 	public double userSalary(double salary) {
-
 		return salary;
 	}
 
