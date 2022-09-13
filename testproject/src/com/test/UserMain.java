@@ -9,7 +9,9 @@ public class UserMain {
 		System.out.println(id);
 		test.m1(5, 9);
 		int i = test.m2();
-		//System.out.println(i);
+		System.out.println(i);
+		double salary = test.userSalary(6744.33);
+		System.out.println(salary);
 	}
 
 }

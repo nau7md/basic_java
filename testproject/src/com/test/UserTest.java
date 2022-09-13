@@ -22,8 +22,14 @@ public class UserTest implements User {
 
 	@Override
 	public int m2() {
-	
+
 		return 44;
+	}
+
+	@Override
+	public double userSalary(double salary) {
+
+		return salary;
 	}
 
 }
