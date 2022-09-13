@@ -11,7 +11,7 @@ public class UserMain {
 		int i = test.m2();
 		System.out.println(i);
 		double salary = test.userSalary(6744.33);
-		System.out.println(salary);
+		System.out.println("User Salary:"+salary);
 	}
 
 }
